@@ -1,2 +1,2 @@
 # Pokédex
-Pokédex simples 
+Pokédex simples em Javascript
